@@ -7,8 +7,6 @@ Neo4j mapping of TPG Systems
 
 # Setup
 
-`pipenv install`
-
 Get source data (not stored in this repository for client confidentiality reasons) from 
 `https://twodegrees1.sharepoint.com/:x:/r/teams/TPGTMigration/Shared%20Documents/General/Apps%20Analysis/TPG%20Dependency%20Matrix%20-%20Provider%20Consumer.xlsx?d=w3a8f156ef81e4d08b86b06b5a6812473&csf=1&web=1&e=ZHZbc7`
 
